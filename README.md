@@ -12,8 +12,8 @@ A Full Stack Blogging Application made using the MERN Stack..
 4)New blogs can be published along with pictures
 ![createP](https://user-images.githubusercontent.com/99534166/180640935-a1681578-3f7e-4ec3-8ef3-abe18941cdf4.png)
 
-7)User can also edit or delete his blogs
+5)User can also edit or delete his blogs
 ![singleP](https://user-images.githubusercontent.com/99534166/180640991-f64bb677-e853-4699-9fa8-4cba4fdf41f4.png)
 
-8)All the login Credentials can be updated
+6)All the login Credentials can be updated
 ![updateP](https://user-images.githubusercontent.com/99534166/180641004-53bcbe50-1a4d-4672-81dd-d26d67c1dbca.png)
